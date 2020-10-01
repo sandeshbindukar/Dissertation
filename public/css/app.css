@@ -1,0 +1,108 @@
+body {
+    font-family: 'Open+Sans';
+    background-repeat: repeat;
+    /* background: #da6650; */
+    background: #b56d5d;
+}
+
+.background {
+    margin-top: -25px;
+}
+
+a {
+    color: #aa0014;
+    text-decoration: none;
+}
+
+p {
+    font-family: 'Roboto';
+}
+
+a:hover {
+    font-family: 'Roboto';
+    color: #e31313;
+    text-decoration: none;
+}
+
+.info-table td {
+    text-align: center;
+}
+
+.info-table th {
+    text-align: center;
+}
+
+.info-table i {
+    color: #7DA600;
+}
+
+.page-header h4 {
+    color: #9A0013;
+}
+
+.container {
+    /* background: #ffffff; */
+    background: #fff9f9;
+}
+
+.content-fixer {
+    margin-top: 30px;
+}
+
+.border {
+    border-top-right-radius: 1em;
+    border-top-left-radius: 1em;
+}
+
+.content-min {
+    min-height: 610px;
+    border-bottom-left-radius: 2em;
+    border-bottom-right-radius: 2em;
+}
+
+.panel {
+    margin-top: 30px;
+}
+
+.logo {
+    width: 165px;
+    height: 33px;
+}
+
+.header-nav {
+    /* background-color: #ffffff; */
+    background-color: #fff8f8;
+    margin: 5px;
+}
+
+.form-group {
+    margin: 5px;
+}
+
+#input-field {
+    width: 100%;
+}
+
+.camps {
+    margin: 15px;
+}
+
+.panel-content {
+    margin: 15px;
+}
+
+.panel-heading h4 {
+    color: #9A0013;
+}
+
+.fa-btn {
+    margin-right: 6px;
+}
+
+.footer-nav {
+    margin-bottom: 25px;
+}
+
+.footer-nav-item {
+    padding-right: 15px;
+}

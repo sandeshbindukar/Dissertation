@@ -1,0 +1,1 @@
+It's better to use Laravel php artisan migrate command to migrate the database rather than using sql query directly
